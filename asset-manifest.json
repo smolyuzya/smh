@@ -1,13 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.fd1ad4fe.css",
-    "main.js": "/static/js/main.91fb95db.js",
+    "main.js": "/static/js/main.d6f56964.js",
+    "static/media/luliguess.webp": "/static/media/luliguess.f4cab41df904438a172c.webp",
+    "static/media/catjam.webp": "/static/media/catjam.626db166c038d1588183.webp",
+    "static/media/noted.webp": "/static/media/noted.9711d4d8988443d8c0c2.webp",
+    "static/media/aware.webp": "/static/media/aware.f68d3003ec21ace644af.webp",
+    "static/media/billyready.webp": "/static/media/billyready.58683b6d8aedd64c610b.webp",
+    "static/media/pepesmoke.webp": "/static/media/pepesmoke.898619950945ae0bbab7.webp",
+    "static/media/agakakskagesh.webp": "/static/media/agakakskagesh.fae5fdbfb8e7b9112655.webp",
+    "static/media/motivated.webp": "/static/media/motivated.ef239523ef8693bc5b1f.webp",
+    "static/media/popcat.webp": "/static/media/popcat.5fde48c9f2ada03456f6.webp",
+    "static/media/clap.webp": "/static/media/clap.1f835c0d512494e96ce0.webp",
+    "static/media/clueless.webp": "/static/media/clueless.ae72caa4317c6d837736.webp",
     "index.html": "/index.html",
     "main.fd1ad4fe.css.map": "/static/css/main.fd1ad4fe.css.map",
-    "main.91fb95db.js.map": "/static/js/main.91fb95db.js.map"
+    "main.d6f56964.js.map": "/static/js/main.d6f56964.js.map"
   },
   "entrypoints": [
     "static/css/main.fd1ad4fe.css",
-    "static/js/main.91fb95db.js"
+    "static/js/main.d6f56964.js"
   ]
 }
